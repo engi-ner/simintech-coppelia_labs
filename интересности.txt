@@ -1,4 +1,4 @@
-робот сам встает после падения
+﻿робот сам встает после падения
 https://www.reddit.com/r/interestingasfuck/comments/1b14myw/robot_playing_football_whos_ready_for_robosports/
 
 держатель камеры
@@ -48,3 +48,5 @@ https://www.youtube.com/watch?v=V0-TbW2AnJ0
 реклама курса
 https://www.youtube.com/watch?v=gs1g2qzbsOk
 
+лекции по роботам с практикой
+https://www.youtube.com/watch?v=3UfHAa42ki8&t=134s
